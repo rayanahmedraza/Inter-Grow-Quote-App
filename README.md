@@ -47,6 +47,8 @@ This application retrieves random quotes using the public **DummyJSON Quotes API
 
 ## 🚀 How to Run
 
+>Follow ![Download Instructions](DownloadInstructions)
+
 1. Clone this repository.
 2. Open the project using **Godot 4.6 (.NET)**.
 3. Build the C# project.
@@ -62,7 +64,7 @@ This application retrieves random quotes using the public **DummyJSON Quotes API
 
 ![Quote 1](Screenshots/one.png)
 
-![Quote 2](Screenshots/two.png)
+![Quote 2](Screenshots/Two.png)
 
 ---
 
