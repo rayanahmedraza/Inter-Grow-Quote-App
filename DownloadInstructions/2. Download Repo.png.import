@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://luj0qv6fvwnk"
-path="res://.godot/imported/2. Download Repo.png-487e1f48c5581a5fd509b086da7a44ba.ctex"
+path="res://.godot/imported/2. Download Repo.png-3f5db0ab21029000ae37a881cde1c8e3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Download Instructions/2. Download Repo.png"
-dest_files=["res://.godot/imported/2. Download Repo.png-487e1f48c5581a5fd509b086da7a44ba.ctex"]
+source_file="res://DownloadInstructions/2. Download Repo.png"
+dest_files=["res://.godot/imported/2. Download Repo.png-3f5db0ab21029000ae37a881cde1c8e3.ctex"]
 
 [params]
 
