@@ -9,7 +9,6 @@ A lightweight quote application built with **Godot 4.6 (.NET)** and **C#** that 
 - 🌐 Fetch random inspirational quotes from a public API
 - 👤 Display quote author
 - 🔄 Generate a new quote with a single button press
-- 📱 Android compatible
 - ⚡ Lightweight and responsive interface
 
 ---
