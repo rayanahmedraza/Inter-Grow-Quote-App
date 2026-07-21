@@ -62,7 +62,7 @@ This application retrieves random quotes using the public **DummyJSON Quotes API
 
 ![Quote 1](Screenshots/one.png)
 
-![Quote 2](Screenshots/two.png)
+![Quote 2](Screenshots/Two.png)
 
 ---
 
